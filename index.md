@@ -1,29 +1,42 @@
-## Welcome to GitHub Pages
+#                                                        Welcome to MyWonder
 
-You can use the [editor on GitHub](https://github.com/TrojanDaniel/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project Summary
 
-### Markdown
+MyWonder is a platform for big data analytics and visualization, which helps users to do visualization from massive files under 10 minutes rather than hours wait. Thanks to the technology that distributes files on the cloud, users can quickly calculate their analytics and summaries from their phones.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Wastes
+Skill: Each of team member should create a few visualization examples, which is not reasonable. There should be some people who are professional in doing visualization examples finishing this part.
 
-# Header 1
-## Header 2
-### Header 3
+Waiting: If team manager wants to update contents, he needs to contact customer support team. Customer support team needs to talk to designers. Then designers have to let the backend team to update contents. This whole process is time-consuming.
 
-- Bulleted
-- List
+Defect: There is no separate testing and production environments, which will cause many problems in future. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Milestones
+-Design the main functions of the software and form a team to take tasks
 
-[Link](url) and ![Image](src)
+-Separate testing and production environments
+
+-Open a meeting to talk about updating new functionalities
+
+
+# Deliverables
+-Update the terminology and contents
+
+-Create a few visualization examples
+
+-Add “Note” areas in the visualizations
+
+-Create a Powerpoint with screenshots to walk through a visualization
+
+
+
+# Gantt Diagram
+
+![text]
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
