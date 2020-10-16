@@ -34,4 +34,4 @@ Defect: There is no separate testing and production environments, which will cau
 
 
 # Gantt Diagram
-![text]https://github.com/TrojanDaniel/MyWonder/blob/gh-pages/pic.png?raw=true
+![Alt Text]https://github.com/TrojanDaniel/MyWonder/blob/gh-pages/pic.png
